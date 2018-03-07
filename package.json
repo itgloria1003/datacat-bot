@@ -1,0 +1,19 @@
+{
+  "name": "datacat-bot",
+  "version": "1.0.0",
+  "description": "Smart Data Catalogue Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itgloria1003/datacat-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itgloria1003/datacat-bot/issues"
+  },
+  "homepage": "https://github.com/itgloria1003/datacat-bot#readme"
+}
